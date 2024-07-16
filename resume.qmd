@@ -1,89 +1,73 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jacob Brown Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Jacob Brown's Resume
 
+## Background
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+My experiences at school and in jobs have taught me to be a hard worker, on time, and dependable. I excel when involved with tactile
+projects, leading projects, and interacting with people in small groups or one-on-one. I am a dedicated, motivated, and dependable
+individual who enjoys being faced with new challenges.
 
 
-### Research interests
+### Skills
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+-Moderate understanding of R
+-basic understanding of Python
+-basic understanidn of SQL
 
+
+
+### Personal projects
+
+#statistical anylises of LindaBrownPottery.
+(10/2023 - 11/2023)
+-I helped a small farmers market start-up. the owner asked me to look
+into how much money she was making, which shows were making more money and much product were selling. I made a RMD file to
+show her the data.
+
+Data Wrangling in Idaho's, Madison County's, Juvenile Justice System
+(1/2024 - 4/2024)
+
+-I was part of a team to help find and clean data about juvinials and delinquency within madison County.  So we could create graphs do a statistical analysis and send it to a university paper.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`09/2018 - present`
+__Brigham Young Univerisy Idaho.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Awards/Organizations
 
-- Sizar
+Boy Scouts of America (12/2011 - 11/2015)
+troop member and Egale Scout
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+Data Science Society (01/2024 - Present)
+Working jon small teams to complete projects from acround the comunity
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+Delivery specilest
+Monteriors
+04/2023 - 09/2023, Bozeman, MT
+Monteriors sold, delivered and installed flooring, cabnets, appliances, and
+products to help with the installation of said products.
+This Job required the ability to work with others and build
+good communication skills and teamwork. It also required time
+management and the ability to adapt to new scenarios.
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Delivery Specilest
+Mattress King
+04/2019 - 10/2020, Bozeman
+sold, delivered, and installed mattresses.
+There was a huge focus on teamwork and building a good work
+relationship with co-workers. Part of the job of time
+management and striving is to maintain a schedule and deal
+with unexpected changes within our schedule. I was also part
+of the sales team and focused on the needs of our customers
+and helping them achieve the best possible sleep.
+ ### Footer
 
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: May 2024
