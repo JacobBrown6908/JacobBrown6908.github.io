@@ -1,9 +1,10 @@
 ---
 title: "Final Project: Scotland"
-format: html
+format: 
+  html: 
+    toc: true
 editor: visual
 keep-md: true
-engine: quarto
 ---
 
 ```{r}
