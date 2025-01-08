@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Jacob Brown - Data Science Portfolio"
+  title: "Jacob Brown - Personal Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
   repo-url: https://github.com/JacobBrown6908/JacobBrown6908.github.io
@@ -48,7 +48,7 @@ website:
           file: cleansing.qmd
         - text: "---"
         - text: "Project 1"
-          file: Cleansing_Projects/project1.qmd
+          file: Cleansing_Projects/finial scotland.qmd
         - text: "---"
         - text: "Project 2"
           file: Cleansing_Projects/project2.qmd
@@ -114,7 +114,7 @@ website:
           file: ml.qmd
         - text: "---"
         - text: "Project 1"
-          file: Machine_Learning/project1.qmd
+          file: Machine_Learning/baseball Win prediction.docx
         - text: "---"
         - text: "Project 2"
           file: Machine_Learning/project2.qmd

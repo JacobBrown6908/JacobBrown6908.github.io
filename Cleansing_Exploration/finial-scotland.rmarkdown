@@ -1,13 +1,11 @@
 ---
-title: "Final Project: Scotland"
+title: "Finial project: Scotland"
 format: html
 editor: visual
 keep-md: true
-engine: quarto
 ---
 
 ```{r}
-install.packages("pacman")
 pacman::p_load(downloader, sf, fs, tidyverse, leaflet.extras, leaflet, readr,ggimage,magick)
 ```
 
@@ -19,11 +17,13 @@ wfs_url <- "https://maps.gov.scot/server/services/NRS/Census2022/MapServer/WFSSe
 scotland_shapes <- st_read(wfs_url)
 ```
 
+
 ### Scotland
 
 One of my favorite quotes from a Scotsman is, "We never let the truth get in the way of a good story." Scotland is full of stories and mysteries waiting to be uncovered. Is there really a Loch Ness Monster? Why is the national animal a unicorn? Some of these questions have answers, but others remain shrouded in legend.
 
 My goal is not to add to the stories, but to uncover the truth. One question I’m particularly curious about is: How has Scotland's population changed over the past 200 years?
+
 
 ```{r}
 library(ggplot2)
@@ -38,9 +38,11 @@ ggplot(data = scotland_shapes) +
 
 ```
 
+
 This graph shows an image of Scotland with each dot referencing large populous areas. this shows that most people live on the east coast with Aberdeen on the top part of the black peninsula which is on of the 4 largest cities in Scotland. Another large majority living in the southern belt, with Glasgow on the West and Edinburgh on the East, two of the other largest cities. all three of theses cities is about 4 out of the 5.5 million people who live in Scotland.
 
 ### Analysis
+
 
 ```{r}
 library(readr)
@@ -64,7 +66,9 @@ ggplot(scotland_population, aes(x = Year, y = pop)) +
       panel.grid.minor.y = element_blank())
 ```
 
+
 As we can see, there is a gap in the 1940s due to World War II, during which no census was conducted. Despite this, we observe a consistent population increase from 1800 to 1920, largely due to the effects of the First World War. There is then a noticeable jump in population in the 1950s, followed by a significant decline during the 1970s to 1990s. This decline was primarily due to mass migration out of Scotland, as many factory jobs became automated. Consequently, a large portion of the working class left Scotland in search of work.
+
 
 ```{r}
 scotland_population <- scotland_population |> 
@@ -106,5 +110,6 @@ ggplot() +
 
 
 ```
+
 
 This graph shows the percentage change in population over the years for both Scotland and the United States, for comparison. We can observe that the United States has a more consistent population change, while both countries are experiencing a decrease in population growth over the years. However, Scotland’s population change is more volatile. This is likely due to the fact that the United States has a population of approximately 300 million, whereas Scotland has only 5.5 million. Therefore, the impact of one person leaving Scotland affects the percentage change about 60 times more than in the United States.
