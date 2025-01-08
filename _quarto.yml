@@ -48,7 +48,7 @@ website:
           file: cleansing.qmd
         - text: "---"
         - text: "Project 1"
-          file: Cleansing_Projects/finial scotland.qmd
+          file: Cleansing_Projects/finial_scotland.qmd
         - text: "---"
         - text: "Project 2"
           file: Cleansing_Projects/project2.qmd
@@ -113,8 +113,8 @@ website:
         - text: "Machine Learning"
           file: ml.qmd
         - text: "---"
-        - text: "Project 1"
-          file: Machine_Learning/baseball Win prediction.docx
+        - text: "Base Ball Prediction"
+          file: Machine_Learning/baseball_Win_prediction.docx
         - text: "---"
         - text: "Project 2"
           file: Machine_Learning/project2.qmd
